@@ -1,12 +1,16 @@
-<h2 align="left">CoFounder & Developer from Strivex Labs</h2>
+<br clear="both">
+
+<h1 align="left">Co-Founder & Developer from Strivex Labs</h1>
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyslabs&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<br clear="both">
+
+<h4 align="center">Languages</h4>
 
 ###
+
+<br clear="both">
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJydm1xMDRmbTd6Nm5udHliZnVyMHN4YWVoZGhxZnhnN2w0d2ZzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDYwXlwtvRaE/giphy.gif"  />
 
@@ -56,6 +60,10 @@
 
 ###
 
+<h4 align="left">Social Media</h4>
+
+###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/anthony-lacayo-5b54012b0/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -66,12 +74,15 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tonyslabs/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyslabs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tonyslabs&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+</div>
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouz.maurodesouz&"  />
-</div>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/tonyslabs/tonyslabs/output/snake.svg" alt="Snake animation" />
 
 ###
