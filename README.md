@@ -4,9 +4,7 @@
 
 ###
 
-<br clear="both">
-
-<h4 align="center">Languages</h4>
+<h4 align="left">Languages</h4>
 
 ###
 
@@ -72,17 +70,15 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyslabs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true" height="180" alt="languages graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=tonyslabs&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
-</div>
+<h4 align="left">Github Lenguages & Stats</h4>
 
 ###
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tonyslabs/tonyslabs/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyslabs&locale=es&hide_title=true&layout=compact&card_width=320&langs_count=7&theme=radical&hide_border=true" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=tonyslabs&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="150" alt="stats graph"  />
+</div>
 
 ###
