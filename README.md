@@ -6,7 +6,6 @@
 
 <div align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJydm1xMDRmbTd6Nm5udHliZnVyMHN4YWVoZGhxZnhnN2w0d2ZzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDYwXlwtvRaE/giphy.gif" height="160" alt="Coding animation" />
-  <img src="https://x.com/i/status/1977018852882944261" height="160" alt="Coding animation" />
 </div>
 
 ---
