@@ -1,4 +1,4 @@
-<h1 align="center">👨‍💻 Co-Founder & Developer from Strivex Labs</h1>
+<h1 align="center">Co-Founder & Developer from Strivex Labs</h1>
 
 <p align="center">
   <em>Building automation, APIs and digital products with precision.</em>
@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">🧠 Languages & Technologies</h3>
+<h3 align="center">Languages & Technologies</h3>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="35" alt="Linux" />
@@ -37,7 +37,7 @@
 
 ---
 
-<h3 align="center">🌐 Social Media</h3>
+<h3 align="center">Social Media</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anthony-lacayo-5b54012b0/" target="_blank">
@@ -47,7 +47,7 @@
 
 ---
 
-<h3 align="center">📊 GitHub Languages & Stats</h3>
+<h3 align="center">GitHub Languages & Stats</h3>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tonyslabs&locale=es&hide_title=false&layout=compact&card_width=350&langs_count=7&theme=radical&hide_border=true" height="180" alt="Languages graph" />
