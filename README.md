@@ -1,45 +1,31 @@
-<h1 align="center">Co-Founder & Software Developer</h1>
-<h3 align="center">Strivex Labs</h3>
+# Hola, soy Tony 👋
 
-<p align="center">
-  <em>Designing and building scalable APIs, automation systems and digital products.</em>
+Desarrollador de Managua, Nicaragua. Co-fundador de **Strivex Labs**.
+Me gusta construir cosas que se usan de verdad: APIs, automatización y apps que resuelven un problema concreto.
+
+Casi todo lo hago sobre mi propio homelab, y lo que sale bien lo dejo abierto.
+
+## Lo que ando haciendo
+
+- 🛡️ **[Scan4All](https://github.com/tonyslabs/scan4all-app)**: escanea archivos, URLs, dominios e IPs con más de 90 motores. Linux, Windows y Android.
+- 🎧 **[HiResSpot](https://github.com/tonyslabs/hiresspot)**: reproductor hi-fi con sello Hi-Res sobre Navidrome.
+- 🎵 **[Drstify](https://github.com/tonyslabs/ytconvert)**: baja audio de YouTube en la mejor calidad. Autoalojado, sin cuentas.
+- 🗄️ **[bakman](https://github.com/tonyslabs/bakman)**: backups, crons y estado de mis servers en un solo lugar.
+
+## Con qué trabajo
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" />
 </p>
 
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDJydm1xMDRmbTd6Nm5udHliZnVyMHN4YWVoZGhxZnhnN2w0d2ZzeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WUDYwXlwtvRaE/giphy.gif" height="150" alt="Coding animation" />
-</div>
+## Hablemos
 
----
-
-<h3 align="center">Tech Stack</h3>
-
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="32" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/woocommerce/woocommerce-original.svg" height="32" />
-</p>
-
----
-
-<h3 align="center">Connect</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anthony-lacayo-5b54012b0/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="32" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <sub>Building consistently. Improving continuously.</sub>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=flat-square)](https://www.linkedin.com/in/anthony-lacayo-5b54012b0/)
