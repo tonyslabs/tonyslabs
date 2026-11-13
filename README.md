@@ -12,7 +12,6 @@
 
 ---
 
-
 ### Things I've built
 
 | | |
@@ -21,32 +20,25 @@
 | [**HiResSpot**](https://github.com/tonyslabs/hiresspot) | Hi-fi player for Navidrome with a Hi-Res badge and a read-only view of your Spotify library. [Live](https://hiresspot.drskxll.io) |
 | [**Drstify**](https://github.com/tonyslabs/ytconvert) | YouTube audio in the best quality available. Self-hosted, no accounts, no telemetry. [Live](https://drstify.drskxll.io) |
 
-### What I use
+### What I work with
 
-<div align="center">
-<table>
-  <tr>
-    <td width="110"><b>Frontend</b></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"><br><sub>TypeScript</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"><br><sub>React</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="40" alt="Astro"><br><sub>Astro</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind"><br><sub>Tailwind</sub></td>
-  </tr>
-  <tr>
-    <td width="110"><b>Backend</b></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"><br><sub>Python</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="FastAPI"><br><sub>FastAPI</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"><br><sub>PHP</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"><br><sub>Laravel</sub></td>
-  </tr>
-  <tr>
-    <td width="110"><b>Apps</b></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="40" alt="Tauri"><br><sub>Tauri</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="40" alt="Kotlin"><br><sub>Kotlin</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React Native"><br><sub>React Native</sub></td>
-  </tr>
-  <tr>
-    <td width="110"><b>Data &amp; infra</b></td>
-    <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="40" alt="MariaDB"><br><sub>MariaDB</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="Redis"><br><sub>Redis</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="Docker"><br><sub>Docker</sub></td><td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Linux"><br><sub>Linux</sub></td>
-  </tr>
-</table>
-</div>
+**Infra & DevOps**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="18" alt="Linux">&nbsp;Linux &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="Docker">&nbsp;Docker &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="18" alt="Nginx">&nbsp;Nginx &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="18" alt="CI/CD · GitHub Actions">&nbsp;CI/CD · GitHub Actions &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="18" alt="Git">&nbsp;Git
+
+**Backend & APIs**  
+REST APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="Python">&nbsp;Python &nbsp;·&nbsp; Django &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="FastAPI">&nbsp;FastAPI &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="18" alt="PHP">&nbsp;PHP &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="18" alt="Laravel">&nbsp;Laravel
+
+**Data**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="PostgreSQL">&nbsp;PostgreSQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="18" alt="MariaDB">&nbsp;MariaDB &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="18" alt="Redis">&nbsp;Redis
+
+**Frontend**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="TypeScript">&nbsp;TypeScript &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="React">&nbsp;React &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="18" alt="Astro">&nbsp;Astro &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="Tailwind">&nbsp;Tailwind
+
+**Apps**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="18" alt="Tauri">&nbsp;Tauri &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="React Native">&nbsp;React Native &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="18" alt="Kotlin">&nbsp;Kotlin
 
 ---
 
 <p align="center">
-  <a href="https://strivexlabs.com">strivexlabs.com</a> ·
-  <a href="https://www.linkedin.com/in/anthony-lacayo-5b54012b0/">LinkedIn</a>
+  <a href="https://strivexlabs.com">strivexlabs.com</a>
 </p>
