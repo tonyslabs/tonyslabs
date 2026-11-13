@@ -1,8 +1,9 @@
+<p align="right"><sub>English · <a href="README.es.md">Español</a></sub></p>
+
 <h1 align="center">Tony Lacayo</h1>
 
 <p align="center">
-  <em>Co-fundador de Strivex Labs. Desde Managua, escribiendo código y rompiendo cosas en mi homelab.</em><br>
-  <em>Co-founder at Strivex Labs. Writing code and breaking things in my homelab, from Managua.</em>
+  <em>Co-founder at <a href="https://strivexlabs.com">Strivex Labs</a>. Writing code and breaking things in my homelab, from Managua.</em>
 </p>
 
 <div align="center">
@@ -11,32 +12,25 @@
 
 ---
 
-Me gusta construir cosas que se usan de verdad: APIs, automatización y apps que resuelven algo concreto. Lo que sale bien lo dejo abierto.
-<br>I like building things people actually use: APIs, automation and apps that solve something real. What turns out well, I open up.
+I build things people actually use: APIs, automation and apps that solve something real. I run most of it on my own servers, and what turns out well I open up.
 
-**Por aquí ando / What I'm up to**
+### Things I've built
 
-- [Scan4All](https://github.com/tonyslabs/scan4all-app): escáner de archivos, URLs, dominios e IPs con más de 90 motores / scanner for files, URLs, domains and IPs with 90+ engines
-- [HiResSpot](https://github.com/tonyslabs/hiresspot): reproductor hi-fi sobre Navidrome / hi-fi player on top of Navidrome
-- [Drstify](https://github.com/tonyslabs/ytconvert): audio de YouTube en la mejor calidad, autoalojado / YouTube audio in the best quality, self-hosted
-- [bakman](https://github.com/tonyslabs/bakman): backups, crons y estado de tus servers en un solo lugar / backups, crons and server status in one place
+| | |
+|---|---|
+| [**Scan4All**](https://github.com/tonyslabs/scan4all-app) | Scans files, URLs, domains and IPs against 90+ engines. Linux, Windows and Android. [Live](https://appscan4all.drskxll.io) |
+| [**HiResSpot**](https://github.com/tonyslabs/hiresspot) | Hi-fi player for Navidrome with a Hi-Res badge and a read-only view of your Spotify library. [Live](https://hiresspot.drskxll.io) |
+| [**Drstify**](https://github.com/tonyslabs/ytconvert) | YouTube audio in the best quality available. Self-hosted, no accounts, no telemetry. [Live](https://drstify.drskxll.io) |
+| [**bakman**](https://github.com/tonyslabs/bakman) | Backups, cron jobs and server status without opening ten terminals. |
+
+### What I use
+
+**Build** · TypeScript, React, Astro, Tailwind, Python, FastAPI, PHP, Laravel, Tauri, Expo<br>
+**Run** · Linux, Docker, MariaDB, Redis, Tailscale, a homelab that is always one experiment away from breaking
 
 ---
 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="28" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="28" />
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anthony-lacayo-5b54012b0/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="28" />
-  </a>
+  <a href="https://strivexlabs.com">strivexlabs.com</a> ·
+  <a href="https://www.linkedin.com/in/anthony-lacayo-5b54012b0/">LinkedIn</a>
 </p>
