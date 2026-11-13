@@ -12,30 +12,30 @@
 
 ---
 
-### Things I've built
+<h3 align="center">Things I've built</h3>
 
-| | |
-|---|---|
-| [**Scan4All**](https://github.com/tonyslabs/scan4all-app) | Scans files, URLs, domains and IPs against 90+ engines. Linux, Windows and Android. [Live](https://appscan4all.drskxll.io) |
-| [**HiResSpot**](https://github.com/tonyslabs/hiresspot) | Hi-fi player for Navidrome with a Hi-Res badge and a read-only view of your Spotify library. [Live](https://hiresspot.drskxll.io) |
-| [**Drstify**](https://github.com/tonyslabs/ytconvert) | YouTube audio in the best quality available. Self-hosted, no accounts, no telemetry. [Live](https://drstify.drskxll.io) |
+<div align="center">
+<table>
+  <tr>
+    <td align="center" valign="top" width="260"><a href="https://github.com/tonyslabs/scan4all-app"><b>Scan4All</b></a><br><sub>Scans files, URLs, domains and IPs against 90+ engines.</sub><br><a href="https://appscan4all.drskxll.io"><sub>Live ↗</sub></a></td>
+    <td align="center" valign="top" width="260"><a href="https://github.com/tonyslabs/hiresspot"><b>HiResSpot</b></a><br><sub>Hi-fi player for Navidrome with a Hi-Res badge.</sub><br><a href="https://hiresspot.drskxll.io"><sub>Live ↗</sub></a></td>
+    <td align="center" valign="top" width="260"><a href="https://github.com/tonyslabs/ytconvert"><b>Drstify</b></a><br><sub>YouTube audio in the best quality. Self-hosted, no accounts.</sub><br><a href="https://drstify.drskxll.io"><sub>Live ↗</sub></a></td>
+  </tr>
+</table>
+</div>
 
-### What I work with
+<h3 align="center">What I work with</h3>
 
-**Infra & DevOps**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="18" alt="Linux">&nbsp;Linux &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="18" alt="Docker">&nbsp;Docker &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="18" alt="Nginx">&nbsp;Nginx &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="18" alt="CI/CD · GitHub Actions">&nbsp;CI/CD · GitHub Actions &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="18" alt="Git">&nbsp;Git
-
-**Backend & APIs**  
-REST APIs &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="18" alt="Python">&nbsp;Python &nbsp;·&nbsp; Django &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="18" alt="FastAPI">&nbsp;FastAPI &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="18" alt="PHP">&nbsp;PHP &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="18" alt="Laravel">&nbsp;Laravel
-
-**Data**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="18" alt="PostgreSQL">&nbsp;PostgreSQL &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="18" alt="MariaDB">&nbsp;MariaDB &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="18" alt="Redis">&nbsp;Redis
-
-**Frontend**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="18" alt="TypeScript">&nbsp;TypeScript &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="React">&nbsp;React &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="18" alt="Astro">&nbsp;Astro &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="18" alt="Tailwind">&nbsp;Tailwind
-
-**Apps**  
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="18" alt="Tauri">&nbsp;Tauri &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="18" alt="React Native">&nbsp;React Native &nbsp;·&nbsp; <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" height="18" alt="Kotlin">&nbsp;Kotlin
+<div align="center">
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="36" alt="Linux"><br><sub>Linux</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"><br><sub>Docker</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/githubactions/githubactions-original.svg" height="36" alt="CI/CD"><br><sub>CI/CD</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="36" alt="Nginx"><br><sub>Nginx</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="36" alt="Redis"><br><sub>Redis</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="36" alt="PostgreSQL"><br><sub>PostgreSQL</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" height="36" alt="MariaDB"><br><sub>MariaDB</sub></td>
+  </tr>
+  <tr>
+    <td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"><br><sub>Python</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="36" alt="FastAPI"><br><sub>FastAPI</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="36" alt="Laravel"><br><sub>Laravel</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" alt="TypeScript"><br><sub>TypeScript</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36" alt="React"><br><sub>React</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/astro/astro-original.svg" height="36" alt="Astro"><br><sub>Astro</sub></td><td align="center" width="110"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tauri/tauri-original.svg" height="36" alt="Tauri"><br><sub>Tauri</sub></td>
+  </tr>
+</table>
+</div>
 
 ---
 
